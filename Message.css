@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+body{
+    justify-items: center;
+    align-content: center;
+    min-height: 100vh;
+    background: pink;
+}
+
+p{
+    width: 300px;
+    font-size: 20px;
+}
+
+
+@media (max-width: 756px) {
+
+    img{
+        width: 150px;
+    }
+    
+}

@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+body{
+    background: pink;
+    justify-items: center;
+    align-content: center;
+    min-height: 100vh;
+}
